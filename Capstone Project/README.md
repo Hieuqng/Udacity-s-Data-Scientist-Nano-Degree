@@ -32,12 +32,12 @@ The notebook file contains code for face detector, dog detector, and transfer le
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@holmesdoyle/data-exploration-and-feature-importance-with-xgboost-d72985bebb2).
+The main findings of the code can be found at the post available [here](https://medium.com/@holmesdoyle/a-review-of-cnn-architectures-with-dog-breeds-classification-94086ce16400).
 
 
 ## License
 
-Data Source can be acquired from [AirBnb's website](http://insideairbnb.com/get-the-data.html)
+Data Source can be acquired from [ImageNet](http://www.image-net.org/)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
