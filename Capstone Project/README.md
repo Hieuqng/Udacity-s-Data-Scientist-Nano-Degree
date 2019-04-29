@@ -2,7 +2,6 @@
 
 1. [Project Description](#description)
 2. [Installation](#installation)
-3. [Getting Started](#getstarted)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing](#licensing)
@@ -23,7 +22,6 @@ Lastly, the models are evaluated based on the testing accuracy, i.e. the percent
 - scikit-learn==0.18.1
 - pillow==5.4.0
 - tensorflow==1.0.0
-```
 
 ## File Descriptions <a name="files"></a>
 
